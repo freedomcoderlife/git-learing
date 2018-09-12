@@ -1,2 +1,2 @@
-# git-learing
-learing git
+# git-learning
+learning git
